@@ -1,8 +1,10 @@
 SwiftTyper for Credenz13
+by asdoc, xennygrimmato and jam
 
 If you don't know what SwiftTyper is:
 SwiftTyper is a typing game newly introduced as a side event in credenz13
-It allows users to register themselves and then play for a maximum of 3 times and stores their best scores
+Similar to the typeracer.com game, this standalone client will enable users to play multiplayer with upto 10 other players.
+Each new player has to register, after which he/she gets 3 tries to get the best score (in WPM) possible out of all tries.
 
 Code Description:
 
